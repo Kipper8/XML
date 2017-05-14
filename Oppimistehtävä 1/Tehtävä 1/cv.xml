@@ -1,0 +1,29 @@
+<Cv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="testi.xsd">
+	<Identification>
+		<PersonName>
+			<FirstName>Kim</FirstName>
+			<Surname>Sundstrom</Surname>
+		</PersonName>
+		<ContactInfo>
+			<AddressLine>Opastinsilta 2 A 33</AddressLine>
+			<PostalCode>00520</PostalCode>
+			<Municipality>Helsinki</Municipality>
+			<Country>Suomi</Country>
+			<Email>kim.sundstrom@myy.haaga-helia.fi</Email>
+		</ContactInfo>
+		<Demographics>
+			<Birthdate year="1992" month="5" day="27"></Birthdate>
+			<Gender>Mies</Gender>
+			<Nationality>Suomi</Nationality>
+		</Demographics>
+	</Identification>
+	<WorkExperienceList>
+		<WorkExperience>
+			<From year="2014" month="10" day="20"></From>
+			<To year="2017" month="1" day="26"></To>
+			<Position>Storage worker</Position>
+			<Activities>-</Activities>
+			<Employer>VPD Finland Oy</Employer>
+		</WorkExperience>
+	</WorkExperienceList>
+</Cv>
